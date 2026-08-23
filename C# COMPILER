@@ -21,6 +21,11 @@ namespace HelloWorld
 			
 			double DoubleNumbo = 14.50;
 			Console.WriteLine(DoubleNumbo);
+
+			char Charut = 'A';
+			Console.WriteLine(Charut);
+
+			Console.WriteLine("Hi my name is " +name+ ", I am "+Numbah+" years old. I bought a apple for a price of "+DoubleNumbo+" per kilo. The name of the store is "+Charut+" and it is "+Boolol+" for selling a high value fruits.");
 		}
 	}
 }
