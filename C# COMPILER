@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace HelloWorld
+{
+	public class Program
+	{
+		public static void Main(string[] args)
+		{
+			string name = "Karen";
+			Console.WriteLine(name);
+
+			int Numbah;
+			Numbah = 14;
+			Console.WriteLine(Numbah);
+
+			bool Boolol = true;
+			Console.WriteLine(Boolol);
+			
+			double DoubleNumbo = 14.50;
+			Console.WriteLine(DoubleNumbo);
+		}
+	}
+}
